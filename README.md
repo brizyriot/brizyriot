@@ -88,7 +88,7 @@ AQA Engineer с опытом в ручном и автоматизированн
 ---
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brizyriot&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vikadorzhieva&layout=compact&theme=dark&hide_border=true" alt="Top Langs" />
 </div>
 
 ---
