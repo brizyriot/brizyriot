@@ -95,12 +95,12 @@ AQA Engineer с опытом в ручном и автоматизированн
 
 ### 📫 Как связаться:
 <p align="left">
-  <a href="mailto:brizyriot@yandex.ru">
+  <a href="mailto:vika.dorzhieva.a@yandex.ru">
     <img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
-  <a href="https://t.me/brbr27">
+  <a href="https://t.me/vikadorzhieva">
     <img src="https://img.shields.io/badge/-Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram">
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=brizyriot&style=flat-square&color=blue" alt="Просмотры">
+<img src="https://komarev.com/ghpvc/?username=vikadorzhieva&style=flat-square&color=blue" alt="Просмотры">
